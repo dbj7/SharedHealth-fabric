@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/sharedhealth/mixin/LivingEntityHealMixin": {
+      "heal(F)V": "Lnet/minecraft/class_1309;method_6025(F)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/sharedhealth/mixin/LivingEntityHealMixin": {
+        "heal(F)V": "Lnet/minecraft/class_1309;method_6025(F)V"
+      }
+    }
+  }
+}

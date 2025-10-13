@@ -1,0 +1,17 @@
+/shareon
+/give @a minecraft:golden_apple 64
+/effect give @a minecraft:instant_health 4
+/shareon
+/effect give @a minecraft:instant_health 4
+/give @a minecraft:porkchop 5
+/shareoff
+/give @a minecraft:porkchop 5
+/effect give @a minecraft:instant_health 4
+/time set day
+/difficulty peaceful
+/difficulty easy
+/shareon
+/effect give @a minecraft:instant_health 4
+/gamerule keepInventory true
+/give @a minecraft:diamond_sword
+/shareon
