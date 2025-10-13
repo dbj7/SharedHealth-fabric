@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "sharedhealth",
-  "version": "2.0",
+  "version": "1.0",
   "name": "SharedHealth",
   "description": "",
   "authors": ["dbj7"],
