@@ -52,7 +52,7 @@ And if one player dies… they all die together. 💀
 
 ## 🧑‍💻 Author
 
-Created by **djb7** — open for suggestions and contributions!  
+Created by **dbj7** — open for suggestions and contributions!  
 If you find a bug or have a feature request, please open an issue on GitHub.
 
 ---
