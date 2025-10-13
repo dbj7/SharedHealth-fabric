@@ -26,9 +26,35 @@ And if one player dies… they all die together. 💀
 
 ---
 
-## 📦 Installation
+## 🔧 Requirements
 
-1. Download the latest `SharedHealth-x.x.x.jar`.
-2. Place it in your server’s `mods/` folder (or your local `mods/` folder if testing in singleplayer).
-3. Launch Minecraft with **Fabric Loader 1.21+**.
-4. Check your console for:
+- **Minecraft:** 1.21.10 or later  
+- **Fabric Loader:** 0.15.0 or newer  
+- **Fabric API:** latest version
+
+---
+
+## 🧠 Notes
+
+- The mod does **not** add any client-side content — it’s purely a server-side gameplay mod.
+- It’s compatible with most gameplay or combat mods, as it only hooks into health change and death events.
+- Ideal for **hardcore co-op challenges**, **team-based adventures**, or **streaming events**.
+
+---
+
+## 🧩 Future Plans
+
+- Configurable damage scaling (share only a percentage of damage).  
+- Option to disable synchronized healing.  
+- Support for modded health systems.
+
+---
+
+## 🧑‍💻 Author
+
+Created by **[YourNameHere]** — open for suggestions and contributions!  
+If you find a bug or have a feature request, please open an issue on GitHub.
+
+---
+
+> “If one falls, we all fall.” — SharedHealth Philosophy 🩸
