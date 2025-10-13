@@ -35,13 +35,13 @@ public class sharedhealth implements ModInitializer {
             CommandRegistrationCallback.EVENT.register((dispatcher, registryAccess, environment) -> {
                 dispatcher.register(CommandManager.literal("shareon").executes(ctx -> {
                     SharedHealthHandler.setActive(true);
-                    ctx.getSource().sendFeedback(() -> Text.of("§aSharedHealth attivato"), true);
+                    ctx.getSource().sendFeedback(() -> Text.of("§aSharedHealth on"), true);
                     return 1;
                 }));
 
                 dispatcher.register(CommandManager.literal("shareoff").executes(ctx -> {
                     SharedHealthHandler.setActive(false);
-                    ctx.getSource().sendFeedback(() -> Text.of("§cSharedHealth disattivato"), true);
+                    ctx.getSource().sendFeedback(() -> Text.of("§cSharedHealth off"), true);
                     return 1;
                 }));
             });
