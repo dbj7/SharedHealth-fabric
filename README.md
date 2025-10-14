@@ -28,7 +28,7 @@ And if one player dies… they all die together. 💀
 
 ## 🔧 Requirements
 
-- **Minecraft:** 1.21.10 or later  
+- **Minecraft:** 1.21.10
 - **Fabric Loader:** 0.15.0 or newer  
 - **Fabric API:** latest version
 
