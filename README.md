@@ -12,7 +12,7 @@ And if one player dies… they all die together. 💀
 - 🔗 **Shared health:** all players share a single health pool.
 - ❤️ **Synchronized healing:** when one player regenerates, everyone does.
 - 💀 **Collective death:** when one player dies, all others die instantly.
-- 🧩 **Fabric 1.21+ compatible**
+- 🧩 **Fabric 1.21.10 compatible**
 - ⚡ **Lightweight:** uses server events instead of heavy tick loops.
 
 ---
